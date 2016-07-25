@@ -1,0 +1,6 @@
+C:\Users\utilizator\Desktop\New folder (4)\Descopera-Egiptul-antic\bin\Debug\Egipt - soft educational.exe.config
+C:\Users\utilizator\Desktop\New folder (4)\Descopera-Egiptul-antic\obj\Debug\Interop.WMPLib.dll
+C:\Users\utilizator\Desktop\New folder (4)\Descopera-Egiptul-antic\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\utilizator\Desktop\New folder (4)\Descopera-Egiptul-antic\obj\Debug\Descopera-Egiptul-antic.csproj.ResolveComReference.cache
+C:\Users\utilizator\Desktop\New folder (4)\Descopera-Egiptul-antic\obj\Debug\Egipt - soft educational.exe
+C:\Users\utilizator\Desktop\New folder (4)\Descopera-Egiptul-antic\obj\Debug\Egipt - soft educational.pdb
