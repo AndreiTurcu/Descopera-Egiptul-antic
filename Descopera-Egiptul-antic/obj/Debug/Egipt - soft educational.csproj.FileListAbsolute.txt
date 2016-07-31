@@ -145,9 +145,9 @@ D:\PROIECTE\C#\Egiptul antic\Egipt - soft educational\obj\Debug\Egipt___soft_edu
 D:\PROIECTE\C#\Egiptul antic\Egipt - soft educational\obj\Debug\Egipt___soft_educational.Premii.resources
 D:\PROIECTE\C#\Egiptul antic\Egipt - soft educational\obj\Debug\Egipt___soft_educational.Blank.resources
 D:\PROIECTE\C#\Egiptul antic\Egipt - soft educational\obj\Debug\Egipt___soft_educational.Capitol3.resources
-C:\Users\utilizator\Desktop\New folder (4)\Descopera-Egiptul-antic\bin\Debug\Egipt - soft educational.exe.config
-C:\Users\utilizator\Desktop\New folder (4)\Descopera-Egiptul-antic\obj\Debug\Interop.WMPLib.dll
-C:\Users\utilizator\Desktop\New folder (4)\Descopera-Egiptul-antic\obj\Debug\AxInterop.WMPLib.dll
-C:\Users\utilizator\Desktop\New folder (4)\Descopera-Egiptul-antic\obj\Debug\Egipt - soft educational.csproj.ResolveComReference.cache
-C:\Users\utilizator\Desktop\New folder (4)\Descopera-Egiptul-antic\obj\Debug\Egipt - soft educational.exe
-C:\Users\utilizator\Desktop\New folder (4)\Descopera-Egiptul-antic\obj\Debug\Egipt - soft educational.pdb
+D:\PROIECTE\C#\Egiptul antic\Descopera-Egiptul-antic\bin\Debug\Egipt - soft educational.exe.config
+D:\PROIECTE\C#\Egiptul antic\Descopera-Egiptul-antic\obj\Debug\Interop.WMPLib.dll
+D:\PROIECTE\C#\Egiptul antic\Descopera-Egiptul-antic\obj\Debug\AxInterop.WMPLib.dll
+D:\PROIECTE\C#\Egiptul antic\Descopera-Egiptul-antic\obj\Debug\Egipt - soft educational.csproj.ResolveComReference.cache
+D:\PROIECTE\C#\Egiptul antic\Descopera-Egiptul-antic\obj\Debug\Egipt - soft educational.exe
+D:\PROIECTE\C#\Egiptul antic\Descopera-Egiptul-antic\obj\Debug\Egipt - soft educational.pdb

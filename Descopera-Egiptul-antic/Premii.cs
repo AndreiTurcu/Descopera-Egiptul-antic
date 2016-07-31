@@ -34,7 +34,7 @@ namespace Egipt___soft_educational
 
             #region Pozitionare obiecte
 
-            
+            pictureBox8.BringToFront();
 
             //Inchide
             int width = Screen.PrimaryScreen.Bounds.Width / 32;
@@ -98,6 +98,8 @@ namespace Egipt___soft_educational
                 PremiuScrib();
             else if (egiptDatabase.Utilizatori.Rows[index][3].ToString() == "EGIPTOLOG")
                 PremiuEgiptolog();
+
+            pictureBox8.Visible = false;
         }
 
         #region Generare premii

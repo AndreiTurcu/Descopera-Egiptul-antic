@@ -23,7 +23,6 @@ namespace Egipt___soft_educational
             index = _index;
             video=_video;
 
-            Program.sound4.PlayLooping();
 
             #region Flickering off
 
@@ -38,11 +37,14 @@ namespace Egipt___soft_educational
             #endregion
 
             #region Media
-            Program.sound4.PlayLooping();
-            axWindowsMediaPlayer1.URL = Application.StartupPath + @"\video\v14.mp4";
-            axWindowsMediaPlayer1.Ctlcontrols.play();
-            axWindowsMediaPlayer1.Ctlenabled = false;
-            pictureBox1.Visible = true;
+            if (video == 1)
+            {
+                Program.sound4.PlayLooping();
+                axWindowsMediaPlayer1.URL = Application.StartupPath + @"\video\v14.mp4";
+                axWindowsMediaPlayer1.Ctlcontrols.play();
+                axWindowsMediaPlayer1.Ctlenabled = false;
+                pictureBox1.Visible = true;
+            }
             #endregion
 
             //Pozitionare obiecte

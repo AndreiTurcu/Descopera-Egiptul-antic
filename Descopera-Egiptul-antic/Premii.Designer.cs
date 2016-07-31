@@ -221,7 +221,6 @@
             this.pictureBox8.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox8.TabIndex = 35;
             this.pictureBox8.TabStop = false;
-            this.toolTip1.SetToolTip(this.pictureBox8, "Inchide");
             // 
             // Premii
             // 
